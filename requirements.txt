@@ -1,0 +1,8 @@
+fastapi
+torch
+transformers
+uvicorn
+pydantic
+boto3
+requests
+cors
